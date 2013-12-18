@@ -3,6 +3,9 @@
 #include <string>
 
 
+// this function checks if a player guesses
+// correctly or incorrectly
+
 int life(char guess, string word)
 {
 	int found = -1;

@@ -3,6 +3,9 @@
 #include <string>
 
 
+// this function checks if the entered word is listed
+// in the dictionary
+
 int check(string *word)
 {
 	int found = -1;

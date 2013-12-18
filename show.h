@@ -3,6 +3,8 @@
 #include <string>
 
 
+// this function updates the guessed word on the interface
+
 string show(string hidden, string word, char guess)
 {
 	string str;

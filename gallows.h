@@ -3,6 +3,9 @@
 #include <string>
 
 
+// this function displays the gallows based on
+// the number of lives the guesser has left
+
 void gallows(int *lives)
 {
 	switch(*lives)

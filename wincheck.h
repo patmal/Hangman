@@ -3,6 +3,9 @@
 #include <string>
 
 
+// this function checks if a player wins the game
+// by comparing the entered word and the guessed word
+
 int wincheck(string str)
 {
 	int win = 1;
