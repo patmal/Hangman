@@ -8,6 +8,6 @@ contributor: Patrick Malander
 url: https://github.com/patmal/Hangman
 
 
-This is a simple Hangman game in which two human players can play against each other or one human player can play against a randomly selected word.
+This is a simple two player Hangman game where one player selects a word to be guessed by the other player. The next update will include a one player mode against a computer player.
 
 
