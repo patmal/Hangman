@@ -11,7 +11,7 @@ url: https://github.com/patmal/Hangman
 This is a simple two player Hangman game where one player selects a word to be guessed by the other player. The next update will include a one player mode against a computer player.
 
 
-# Running the game:
+## Running the game:
 
 type the command $ make
 then type the command $ ./Hangman
